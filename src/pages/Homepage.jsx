@@ -1,12 +1,14 @@
 import { Link } from "react-router-dom";
+import AppNav from "../components/AppNav";
 import PageNav from "../components/PageNav";
 
 function Homepage() {
 	return (
 		<div>
 			<PageNav />
-			<h1>World Wise</h1>
-			<Link to="/pricing">Pricing</Link>
+			<AppNav />
+			<h1 className="test">World Wise</h1>
+			<Link to="/app">Go to the app</Link>
 		</div>
 	);
 }
