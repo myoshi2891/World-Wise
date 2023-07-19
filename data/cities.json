@@ -35,6 +35,78 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Brabos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-19T14:27:04.928Z",
+      "notes": "",
+      "position": {
+        "lat": "40.74725696280421",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Brabos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-19T14:27:04.928Z",
+      "notes": "",
+      "position": {
+        "lat": "40.74725696280421",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "O Barco de Valdeorras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-19T14:29:18.843Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "-6.987304687500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "O Barco de Valdeorras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-19T14:29:18.843Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "-6.987304687500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Arth",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2023-07-19T14:29:27.494Z",
+      "notes": "",
+      "position": {
+        "lat": "47.040182144806664",
+        "lng": "8.525390625000002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "El Abiodh Sidi Cheikh",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-07-19T14:33:33.344Z",
+      "notes": "",
+      "position": {
+        "lat": "32.43561304116276",
+        "lng": "0.5273437500000001"
+      },
+      "id": 98443203
     }
   ]
 }
